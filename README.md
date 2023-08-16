@@ -11,21 +11,6 @@ This is a simple web application that allows users to convert temperatures betwe
 - **Result Display:** The converted temperature is displayed immediately after clicking the "Submit" button.
 - **Responsive Design:** The user interface is designed to be responsive and visually appealing on various screen sizes.
 
-**Project Structure:**
-
-- **index.html:** The main HTML file that defines the structure of the web page, including the input fields, radio buttons, and the result display area.
-- **style.css:** The CSS file that adds styles to the HTML elements, ensuring a clean and organized layout.
-- **index.js:** The JavaScript file that contains the logic for temperature conversion and updating the result on the webpage.
-- **README.md:** This file contains important information about the project, including how to set it up, usage instructions, and any other relevant details.
-
-**Usage:**
-
-1. Open the `index.html` file in a web browser.
-2. Enter a temperature value in the text box.
-3. Select the desired unit (Celsius or Fahrenheit) using the radio buttons.
-4. Click the "Submit" button to see the converted temperature.
-
-Feel free to use, modify, and contribute to this project as needed. Whether you're learning web development, experimenting with JavaScript, or just need a quick temperature conversion tool, this project serves as a great starting point.
 
 **Contributions:**
 
